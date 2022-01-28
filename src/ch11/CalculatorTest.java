@@ -1,5 +1,5 @@
 package ch11;
-
+//인터페이스 연습
 public class CalculatorTest {
 
 	public static void main(String[]args) {

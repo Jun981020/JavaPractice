@@ -1,7 +1,7 @@
 package ch02;
 
 public class CustomerTest {
-
+//고객관리 프로그램
 	public static void main(String[] args) {
 
 		Customer customerLee = new Customer();

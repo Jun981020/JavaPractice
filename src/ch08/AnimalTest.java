@@ -1,7 +1,7 @@
 package ch08;
 
 import java.util.ArrayList;
-
+//다운캐스팅 연습
 class Animal{
 	public void move() {
 		System.out.println("동물이 움직입니다.");

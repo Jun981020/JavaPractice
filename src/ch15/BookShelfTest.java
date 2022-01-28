@@ -17,6 +17,8 @@ public class BookShelfTest {
 		System.out.println(bookQueue.deQueue());
 		System.out.println(bookQueue.deQueue());
 		System.out.println(bookQueue.deQueue());
+		System.out.println(bookQueue.getSize());
+
 	
 	}
 }
